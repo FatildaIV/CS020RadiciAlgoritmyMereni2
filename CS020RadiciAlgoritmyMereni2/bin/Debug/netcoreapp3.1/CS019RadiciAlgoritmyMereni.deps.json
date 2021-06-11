@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CS019RadiciAlgoritmyMereni/1.0.0": {
+        "runtime": {
+          "CS019RadiciAlgoritmyMereni.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS019RadiciAlgoritmyMereni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
